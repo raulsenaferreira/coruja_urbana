@@ -1,0 +1,3 @@
+geopy
+watson-developer-cloud>=2.5.1
+python-telegram-bot
